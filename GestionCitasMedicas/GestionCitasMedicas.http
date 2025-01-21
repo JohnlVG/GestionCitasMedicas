@@ -1,0 +1,6 @@
+@GestionCitasMedicas_HostAddress = http://localhost:5261
+
+GET {{GestionCitasMedicas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

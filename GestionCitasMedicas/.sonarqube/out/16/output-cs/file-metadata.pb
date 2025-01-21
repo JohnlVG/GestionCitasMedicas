@@ -1,0 +1,15 @@
+õ
+èD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\obj\Debug\net8.0\GestionCitasMedicas.MvcApplicationPartsAssemblyInfo.csutf-8á
+|D:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\obj\Debug\net8.0\GestionCitasMedicas.AssemblyInfo.csutf-8ì
+áD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8â
+~D:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\obj\Debug\net8.0\GestionCitasMedicas.GlobalUsings.g.csutf-8[
+RD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Program.csutf-8z
+oD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Migrations\AppDbContextModelSnapshot.csutf-8Ö
+zD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Migrations\20250121055535_InitalCreate.Designer.csutf-8z
+qD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Migrations\20250121055535_InitalCreate.csutf-8]
+TD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Entidades.csutf-8x
+oD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Controllers\ProcedimientosController.csutf-8r
+iD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Controllers\PacienteController.csutf-8o
+fD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Controllers\CitasController.csutf-8r
+iD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\Controllers\DoctoresController.csutf-8`
+WD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\GestionCitasMedicas\AppDbContext.csutf-8
